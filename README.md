@@ -42,9 +42,9 @@ for how to use it.
 
 Unedited screen recording, from opening this repo through the end of the work:
 
-Recording URLs:
-
-- https://tacnique-task.s3.us-east-1.amazonaws.com/01.mov
-- https://tacnique-task.s3.us-east-1.amazonaws.com/02.mov
-- https://tacnique-task.s3.us-east-1.amazonaws.com/03.mov
-- https://tacnique-task.s3.us-east-1.amazonaws.com/04.mov
+| Recording | URL |
+|---|---|
+| VIDEO-01 | https://tacnique-task.s3.us-east-1.amazonaws.com/01.mov |
+| VIDEO-02 | https://tacnique-task.s3.us-east-1.amazonaws.com/02.mov |
+| VIDEO-03 | https://tacnique-task.s3.us-east-1.amazonaws.com/03.mov |
+| VIDEO-04 | https://tacnique-task.s3.us-east-1.amazonaws.com/04.mov |
