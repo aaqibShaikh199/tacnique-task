@@ -37,3 +37,9 @@ for how to use it.
 | `terraform/main.tf` | B0 |
 | `terraform/lifecycle.tf` | B1 |
 | `app/access_control.py`, `scripts/cost_tag_check.py` | B2 — stubs to implement |
+
+## Recording
+
+Unedited screen recording, from opening this repo through the end of the work:
+
+Recording URL: add the link here before submitting. A submission without it is not evaluated.
