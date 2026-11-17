@@ -42,4 +42,9 @@ for how to use it.
 
 Unedited screen recording, from opening this repo through the end of the work:
 
-Recording URL: add the link here before submitting. A submission without it is not evaluated.
+Recording URLs:
+
+- https://tacnique-task.s3.us-east-1.amazonaws.com/01.mov
+- https://tacnique-task.s3.us-east-1.amazonaws.com/02.mov
+- https://tacnique-task.s3.us-east-1.amazonaws.com/03.mov
+- https://tacnique-task.s3.us-east-1.amazonaws.com/04.mov
